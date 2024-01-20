@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: a1c07a07ec87f494bbdddc4438941f70
+  - enabled: 1
+    path: Assets/Scenes/Scene1-Demo.unity
+    guid: bea57dfd5de36f948b8fa608ba78a831
+  - enabled: 1
+    path: Assets/Scenes/Scene2-Straight.unity
+    guid: 66873b135f7a6924f9db75cba7b30784
+  - enabled: 1
+    path: Assets/Scenes/Scene3-Swirl.unity
+    guid: fd4deb2b068c40840b8fa31e42fb6183
+  - enabled: 1
+    path: Assets/Scenes/Scene4-Slider.unity
+    guid: 2c9f68e3319468b4ba1f20964dc81c72
+  - enabled: 1
+    path: Assets/Scenes/Scene5-HitTheGreen.unity
+    guid: 3d20be0c6d426464d97e248621b37381
+  - enabled: 1
+    path: Assets/Scenes/Scene6-Floor.unity
+    guid: f243240e585fa4564809e17fa44db075
+  - enabled: 1
+    path: Assets/Scenes/Scene7-Shuttle.unity
+    guid: 5ec39dfcc1e7b478ca5c4d74d17259b4
+  - enabled: 1
+    path: Assets/Scenes/Scene8-NightClub.unity
+    guid: 8d56f6153eae57849b2bad85719edbbc
+  - enabled: 1
+    path: Assets/Scenes/Scene9-Universe.unity
+    guid: 8939752363889384481e56a750f69d41
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 25eb113396de2fe47975cff7f406ec63
+  m_configObjects: {}
